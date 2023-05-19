@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+title:              Tecvity
+email:              hello@tecvity.co
+description:        It is where we share our thoughts!
+author:             Tecvity
+baseurl:            "/blog"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   tecvity
+github_username:    tecvity
+facebook_username:  tecvity
+instagram_username: tecvity
+linkedin_username:  tecvity
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
