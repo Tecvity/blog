@@ -3,7 +3,7 @@ email:              hello@tecvity.co
 description:        It is where we share our thoughts!
 author:             Tecvity
 baseurl:            "/blog"
-url:                "https://startbootstrap.github.io"
+url:                "https://tecvity.github.io"
 
 # Social Profiles
 twitter_username:   tecvity
