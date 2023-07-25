@@ -3,7 +3,7 @@ email:              hello@tecvity.co
 description:        It is where we share our thoughts!
 author:             Tecvity
 baseurl:            "/blog"
-url:                "https://tecvity.github.io"
+url:                "https://regal-biscochitos-dfc5b5.netlify.app/"
 
 # Social Profiles
 twitter_username:   tecvity
